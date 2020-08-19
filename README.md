@@ -1,6 +1,6 @@
 # Google-Form-Automation
 
-Why spend minutes when all you need is seconds.
+Why spend minutes when all you need is seconds ?
 
 
 ## How this works
@@ -16,7 +16,7 @@ You can use these scripts as template or <br>if you are from the same class as m
 
 ## Running the Script
 
-Clone the repository to your local machine and copy the address of the folder.<br>In this case the address is `home/user/`.<br>This project has been developed using minimum dependencies and packages that come with base python installation.Feel free to recheck if all packages are installed in your local machine.
+Clone the repository to your local machine and copy the address of the folder.<br>In this case the address is `/home/user/`.<br>This project has been developed using minimum dependencies and packages that come with base python installation. Feel free to recheck if all packages are installed in your local machine.
 
 Run the script using python :
 
